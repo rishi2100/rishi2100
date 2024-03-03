@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rishi
+- 👀 I’m interested in full stck development
+- 🌱 I’m currently learning Javascript, python :)
