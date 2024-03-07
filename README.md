@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rishi
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Javascript, python :)
+- 🌱 I’m currently learning Javascript & python :)
