@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Rishi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Blockchain+Developer;DevOps+Learner+%26+Practitioner;Eager+to+Contribute+Open+Source;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Blockchain+Developer;DevOps+Explorer;Eager+to+Contribute+Open+Source;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
+
 
 
 <div align="center">
