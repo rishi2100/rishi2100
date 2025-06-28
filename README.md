@@ -19,13 +19,12 @@
 ---
 
 ## 🚀 About Me
-
-- 🌱 Currently learning: **AI/ML, Backend Development, Blockchain Technology**
-- 🔧 Tech Stack: `Python`, `JavaScript`, `Django`, `React`, `Node.js`, `MongoDB`, `PostgreSQL`, `SQL`, `Solidity`, `Web3`
-- 💼 I'm interested in building scalable applications and eager to contribute to open-source projects
-- 🎯 2025 Goals: Start contributing to Open Source projects and build more ML applications
-- ⚡ Fun fact: I love debugging more than writing new code!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishi-sharma-62503b16b/) | [Email](mailto:connect.rishi96@gmail.com)
+- 🌱 Currently learning: AI/ML, Backend Development, Blockchain Technology, DevOps
+- 🔧 Tech Stack: Python, JavaScript, Django, React, Node.js, MongoDB, PostgreSQL, SQL, Solidity, Web3, Docker
+- 🛠️ Exploring: CI/CD pipelines, containerization, and excited to grow in the DevOps space
+- 💼 Passionate about building scalable, production-grade applications and actively contributing to open-source projects
+- 🎯 2025 Goals: Contribute to major open-source repositories, build more ML-powered apps, and deepen hands-on DevOps experience
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/rishi-sharma-62503b16b/) | [Email](mailto:connect.rishi96@gmail.com)
 
 ---
 
