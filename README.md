@@ -240,7 +240,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Happy+Coding!+%F0%9F%9A%80" alt="Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;LLet's+build+something+amazing+together!;Happy+Coding!+%F0%9F%9A%80" alt="Closing Message" />
 </div>
 
 > 💡 *"Code is like humor. When you have to explain it, it's bad."*  
