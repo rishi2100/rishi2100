@@ -56,18 +56,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![Fashion Recommendation Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=rishi2100&repo=fashion-recommendation-chatbot&theme=radical&hide_border=true)](https://github.com/rishi2100/fashion-recommendation-chatbot.git)
-[![Rhythm Rafi](https://github-readme-stats.vercel.app/api/pin/?username=rishi2100&repo=rhythm-rafi&theme=radical&hide_border=true)](https://github.com/rishi2100/rhythm-rafi.git)
-
-[![Weather Prediction](https://github-readme-stats.vercel.app/api/pin/?username=rishi2100&repo=weather-prediction&theme=radical&hide_border=true)](https://github.com/rishi2100/weather-prediction.git)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=rishi2100&repo=portfolio-website&theme=radical&hide_border=true)](https://github.com/rishi2100/portfolio-website.git)
-
-</div>
-
 ### 🌟 Project Highlights
 
 <table>
