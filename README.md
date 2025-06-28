@@ -1,3 +1,45 @@
-- 👋 Hi, I’m Rishi
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Javascript & python :)
+# 👋 Hi, I'm Rishi
+
+Welcome to my GitHub! I'm a passionate developer, constantly learning and building cool stuff. Whether it's web development, machine learning, or open-source contributions — I love turning ideas into reality through code.
+
+## 🚀 About Me
+- 🌱 Currently learning: **AI/ML, Backend Development**
+- 🔧 Tech Stack: `Python`, `JavaScript`, `Django`, `React`, `Node.js`, `MongoDB`, `PostgreSQL`, 'SQL'
+- 💼 I'm interested in building scalable applications and contributing to open-source projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishi2100) | [Email](mailto:your-email@example.com)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishi2100&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi2100&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🧠 Recent Projects
+- 🔍 **Fashion Recommendation Chatbot** - Multimodal AI project using CNN and BERT
+- 📦 **Portfolio Website** - Personal site to showcase skills & resume
+- 🧩 **Mini Apps** - Collection of micro web applications and tools
+
+---
+
+## 🔗 Let's Connect
+
+<a href="https://www.linkedin.com/in/rishi2100">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:connect.rishi96#gmail.com">
+  <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/rishi2100">
+  <img src="https://img.shields.io/github/followers/rishi2100?label=Follow&style=social" />
+</a>
+
+---
+
+> 💡 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
