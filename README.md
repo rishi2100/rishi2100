@@ -60,11 +60,11 @@
 
 <div align="center">
 
-[![Fashion Recommendation Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=rishi2100&repo=fashion-recommendation-chatbot&theme=radical&hide_border=true)](https://github.com/rishi2100/fashion-recommendation-chatbot)
-[![Rhythm Rafi](https://github-readme-stats.vercel.app/api/pin/?username=rishi2100&repo=rhythm-rafi&theme=radical&hide_border=true)](https://github.com/rishi2100/rhythm-rafi)
+[![Fashion Recommendation Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=rishi2100&repo=fashion-recommendation-chatbot&theme=radical&hide_border=true)](https://github.com/rishi2100/fashion-recommendation-chatbot.git)
+[![Rhythm Rafi](https://github-readme-stats.vercel.app/api/pin/?username=rishi2100&repo=rhythm-rafi&theme=radical&hide_border=true)](https://github.com/rishi2100/rhythm-rafi.git)
 
-[![Weather Prediction](https://github-readme-stats.vercel.app/api/pin/?username=rishi2100&repo=weather-prediction&theme=radical&hide_border=true)](https://github.com/rishi2100/weather-prediction)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=rishi2100&repo=portfolio-website&theme=radical&hide_border=true)](https://github.com/rishi2100/portfolio-website)
+[![Weather Prediction](https://github-readme-stats.vercel.app/api/pin/?username=rishi2100&repo=weather-prediction&theme=radical&hide_border=true)](https://github.com/rishi2100/weather-prediction.git)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=rishi2100&repo=portfolio-website&theme=radical&hide_border=true)](https://github.com/rishi2100/portfolio-website.git)
 
 </div>
 
@@ -79,7 +79,7 @@
 - **Features:** Multimodal AI for fashion recommendations
 - **Impact:** Personalized shopping experience using deep learning
 - **Highlights:** Image processing, NLP, recommendation engine
-- [🔗 View Project](https://github.com/rishi2100/fashion-recommendation-chatbot)
+- [🔗 View Project](https://github.com/rishi2100/fashion-recommendation-chatbot.git)
 
 </td>
 <td width="50%">
@@ -89,7 +89,7 @@
 - **Features:** Music streaming, playlist creation, social features
 - **Impact:** Completed full-stack music application with real-time features
 - **Highlights:** Audio streaming, user authentication, responsive UI
-- [🔗 View Project](https://github.com/rishi2100/rhythm-rafi)
+- [🔗 View Project](https://github.com/rishi2100/rhythm-rafi.git)
 
 </td>
 </tr>
@@ -101,7 +101,7 @@
 - **Features:** Weather prediction using ML algorithms
 - **Impact:** Accurate weather forecasting with data visualization
 - **Highlights:** Time series analysis, predictive modeling, APIs
-- [🔗 View Project](https://github.com/rishi2100/weather-prediction)
+- [🔗 View Project](https://github.com/rishi2100/weather-prediction.git)
 
 </td>
 <td width="50%">
@@ -111,7 +111,7 @@
 - **Features:** Responsive design, interactive animations
 - **Impact:** Professional showcase of skills and projects
 - **Highlights:** Modern UI/UX, performance optimization
-- [🔗 View Project](https://github.com/rishi2100/portfolio-website)
+- [🔗 View Project](https://github.com/rishi2100/portfolio-website.git)
 
 </td>
 </tr>
@@ -130,7 +130,7 @@
 ## 🎵 Coding Rhythm & Musical Projects
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=rishi2100" alt="Spotify Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=rishi2100" alt="Playing" />
 </div>
 
 <div align="center">
