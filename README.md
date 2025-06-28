@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Rishi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Blockchain+Developer;Eager+to+Contribute+Open+Source;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Blockchain+Developer;DevOps+Learner+%26+Practitioner;Eager+to+Contribute+Open+Source;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -32,7 +33,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,django,mongodb,postgresql,html,css,git,github,vscode,docker,solidity,aws,mysql&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,django,mongodb,postgresql,html,css,git,github,vscode,docker,solidity,aws,mysql,Linux&perline=7" />
 </div>
 
 
