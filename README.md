@@ -67,7 +67,7 @@
 - **Features:** Multimodal AI for fashion recommendations
 - **Impact:** Personalized shopping experience using deep learning
 - **Highlights:** Image processing, NLP, recommendation engine
-- [🔗 View Project](https://github.com/rishi2100/fashion-recommendation-chatbot.git)
+- [🔗 View Project](https://github.com/rishi2100/fashion-outfit-recommendation-chatbot.git)
 
 </td>
 <td width="50%">
@@ -77,7 +77,7 @@
 - **Features:** Music streaming, playlist creation, social features
 - **Impact:** Completed full-stack music application with real-time features
 - **Highlights:** Audio streaming, user authentication, responsive UI
-- [🔗 View Project](https://github.com/rishi2100/rhythm-rafi.git)
+- [🔗 View Project](https://github.com/rishi2100/Rythm-Rafi.git)
 
 </td>
 </tr>
@@ -89,7 +89,7 @@
 - **Features:** Weather prediction using ML algorithms
 - **Impact:** Accurate weather forecasting with data visualization
 - **Highlights:** Time series analysis, predictive modeling, APIs
-- [🔗 View Project](https://github.com/rishi2100/weather-prediction.git)
+- [🔗 View Project](https://github.com/rishi2100/weather-prediction-forecasting.git)
 
 </td>
 <td width="50%">
@@ -99,7 +99,7 @@
 - **Features:** Responsive design, interactive animations
 - **Impact:** Professional showcase of skills and projects
 - **Highlights:** Modern UI/UX, performance optimization
-- [🔗 View Project](https://github.com/rishi2100/portfolio-website.git)
+- [🔗 View Project](https://github.com/rishi2100/My-portfolio.git)
 
 </td>
 </tr>
