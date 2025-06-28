@@ -1,12 +1,16 @@
 # 👋 Hi, I'm Rishi
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
 Welcome to my GitHub! I'm a passionate developer, constantly learning and building cool stuff. Whether it's web development, machine learning, or open-source contributions — I love turning ideas into reality through code.
+
+---
 
 ## 🚀 About Me
 - 🌱 Currently learning: **AI/ML, Backend Development**
-- 🔧 Tech Stack: `Python`, `JavaScript`, `Django`, `React`, `Node.js`, `MongoDB`, `PostgreSQL`, 'SQL'
+- 🔧 Tech Stack: `Python`, `JavaScript`, `Django`, `React`, `Node.js`, `MongoDB`, `PostgreSQL`, `SQL`
 - 💼 I'm interested in building scalable applications and contributing to open-source projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishi2100) | [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishi2100) | [Email](mailto:connect.rishi96@gmail.com)
 
 ---
 
@@ -15,7 +19,12 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 <div align="center">
 
 ![Rishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishi2100&show_icons=true&theme=radical&count_private=true)
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi2100&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rishi2100&theme=radical&border_radius=4.5)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rishi2100&color=blue&style=flat)
 
 </div>
 
@@ -33,7 +42,7 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 <a href="https://www.linkedin.com/in/rishi2100">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:connect.rishi96#gmail.com">
+<a href="mailto:connect.rishi96@gmail.com">
   <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/rishi2100">
