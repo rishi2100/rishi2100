@@ -28,11 +28,13 @@
 
 ---
 
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,django,mongodb,postgresql,html,css,git,github,vscode,docker,solidity&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,django,mongodb,postgresql,html,css,git,github,vscode,docker,solidity,aws,mysql&perline=7" />
 </div>
+
 
 ---
 
