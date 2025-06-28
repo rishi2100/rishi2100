@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 - 🌱 Currently learning: **AI/ML, Backend Development**
 - 🔧 Tech Stack: `Python`, `JavaScript`, `Django`, `React`, `Node.js`, `MongoDB`, `PostgreSQL`, `SQL`
 - 💼 I'm interested in building scalable applications and contributing to open-source projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishi2100) | [Email](mailto:connect.rishi96@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishi-sharma-62503b16b/) | [Email](mailto:connect.rishi96@gmail.com)
 
 ---
 
@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 
 ## 🔗 Let's Connect
 
-<a href="https://www.linkedin.com/in/rishi2100">
+<a href="https://www.linkedin.com/in/rishi-sharma-62503b16b/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:connect.rishi96@gmail.com">
