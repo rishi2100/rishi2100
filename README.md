@@ -89,7 +89,7 @@
 <td width="50%">
 
 **🎵 Rhythm Rafi - Music Streaming Platform**
-- **Tech:** React, Node.js, MongoDB, Express, Spotify API
+- **Tech:** HTML, CSS, JavaScript
 - **Features:** Music streaming, playlist creation, social features
 - **Impact:** Completed full-stack music application with real-time features
 - **Highlights:** Audio streaming, user authentication, responsive UI
@@ -99,7 +99,8 @@
 <td width="50%">
 
 **🌤️ Weather Prediction & Forecasting**
-- **Tech:** Python, Machine Learning, Scikit-learn, Pandas
+- **Tech:** Python, Machine Learning, Scikit-learn, Pandas, Flask
+- **Algorithm used:** Random Forest Regression
 - **Features:** Weather prediction using ML algorithms
 - **Impact:** Accurate weather forecasting with data visualization
 - **Highlights:** Time series analysis, predictive modeling, APIs
