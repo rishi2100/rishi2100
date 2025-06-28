@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Rishi
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<div align="center">
+  <iframe src="https://lottie.host/embed/c8b6dc14-e1cb-47b3-8787-4e98e4c20546/VL4R2NReG9.json" style="width: 100%; height: 300px; border: none;" allowfullscreen autoplay></iframe>
+</div>
 
 Welcome to my GitHub! I'm a passionate developer, constantly learning and building cool stuff. Whether it's web development, machine learning, or open-source contributions — I love turning ideas into reality through code.
 
