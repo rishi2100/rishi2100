@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rishi
 
 <div align="center">
-  <iframe src="https://lottie.host/embed/c8b6dc14-e1cb-47b3-8787-4e98e4c20546/VL4R2NReG9.json" style="width: 100%; height: 300px; border: none;" allowfullscreen autoplay></iframe>
+  <img src="https://lottie.host/0a6ac75e-59ec-4095-975b-4b1b264a2f64/8f09NspTeo.gif" width="100%" alt="Developer Animation" />
 </div>
 
 Welcome to my GitHub! I'm a passionate developer, constantly learning and building cool stuff. Whether it's web development, machine learning, or open-source contributions — I love turning ideas into reality through code.
@@ -20,12 +20,9 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 
 <div align="center">
 
-![Rishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishi2100&show_icons=true&theme=radical&count_private=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi2100&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rishi2100&theme=radical&border_radius=4.5)
-
+![Rishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishi2100&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi2100&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=rishi2100&theme=radical&border_radius=4.5)  
 ![Profile Views](https://komarev.com/ghpvc/?username=rishi2100&color=blue&style=flat)
 
 </div>
@@ -33,9 +30,9 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 ---
 
 ## 🧠 Recent Projects
-- 🔍 **Fashion Recommendation Chatbot** - Multimodal AI project using CNN and BERT
-- 📦 **Portfolio Website** - Personal site to showcase skills & resume
-- 🧩 **Mini Apps** - Collection of micro web applications and tools
+- 🔍 **Fashion Recommendation Chatbot** – Multimodal AI project using CNN and BERT
+- 📦 **Portfolio Website** – Personal site to showcase skills & resume
+- 🧩 **Mini Apps** – Collection of micro web applications and tools
 
 ---
 
@@ -53,4 +50,6 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 
 ---
 
-> 💡 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> 💡 “Code is like humor. When you have to explain it, it’s bad.”  
+> — *Cory House*
+
