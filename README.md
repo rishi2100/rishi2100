@@ -94,7 +94,7 @@
 - **Tech:** HTML, CSS, JavaScript
 - **Features:** Music streaming, playlist creation, social features
 - **Impact:** Completed full-stack music application with real-time features
-- **Highlights:** Audio streaming, user authentication, responsive UI
+- **Highlights:** Audio streaming, responsive UI
 - [🔗 View Project](https://github.com/rishi2100/Rythm-Rafi.git)
 
 </td>
@@ -146,7 +146,7 @@
 - **Tech:** HTML, CSS, Javascript
 - **Features:** Music streaming, playlist creation, social features
 - **Impact:** Completed full-stack music application with real-time features
-- **Highlights:** Audio streaming, user authentication, responsive UI
+- **Highlights:** Audio streaming, responsive UI
 - [🔗 View Project](https://github.com/rishi2100/Rythm-Rafi.git)
 
 </td>
