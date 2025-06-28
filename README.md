@@ -20,8 +20,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 - 🌱 Currently learning: **AI/ML, Backend Development**
 - 🔧 Tech Stack: `Python`, `JavaScript`, `Django`, `React`, `Node.js`, `MongoDB`, `PostgreSQL`, `SQL`
 - 💼 I'm interested in building scalable applications and eager to contribute to open-source projects
