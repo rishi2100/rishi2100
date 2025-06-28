@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rishi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Eager+to+Contribute+Open+Source;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,8 +24,8 @@
 
 - 🌱 Currently learning: **AI/ML, Backend Development**
 - 🔧 Tech Stack: `Python`, `JavaScript`, `Django`, `React`, `Node.js`, `MongoDB`, `PostgreSQL`, `SQL`
-- 💼 I'm interested in building scalable applications and contributing to open-source projects
-- 🎯 2024 Goals: Contribute to more Open Source projects
+- 💼 I'm interested in building scalable applications and eager to contribute to open-source projects
+- 🎯 2025 Goals: Start contributing to Open Source projects and build more ML applications
 - ⚡ Fun fact: I love debugging more than writing new code!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishi-sharma-62503b16b/) | [Email](mailto:connect.rishi96@gmail.com)
 
@@ -87,7 +87,7 @@
 **🎵 Rhythm Rafi - Music Streaming Platform**
 - **Tech:** React, Node.js, MongoDB, Express, Spotify API
 - **Features:** Music streaming, playlist creation, social features
-- **Impact:** Full-stack music application with real-time features
+- **Impact:** Completed full-stack music application with real-time features
 - **Highlights:** Audio streaming, user authentication, responsive UI
 - [🔗 View Project](https://github.com/rishi2100/rhythm-rafi)
 
@@ -134,7 +134,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🎵+Currently+building+Rhythm+Rafi;🎧+Music+%2B+Code+%3D+Perfect+Harmony;🎶+Streaming+beats+while+debugging!" alt="Music Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🎵+Built+and+deployed+Rhythm+Rafi;🎧+Music+%2B+Code+%3D+Perfect+Harmony;🎶+From+concept+to+production!" alt="Music Typing" />
 </div>
 
 *"Good code is like a good song – it needs rhythm, harmony, and perfect timing!"* 🎶
@@ -184,5 +184,5 @@
 ---
 
 <div align="center">
-  Made with ❤️ by Rishi | Last updated: 2024
+  Made with ❤️ by Rishi | Last updated: 2025
 </div>
