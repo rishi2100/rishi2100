@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Blockchain+Developer;DevOps+Explorer;Eager+to+Contribute+Open+Source;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
@@ -35,8 +33,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,django,mongodb,postgresql,html,css,git,github,vscode,docker,solidity,aws,mysql,bash,githubactions,kubernetes&perline=7" />
 </div>
-
-
 
 ---
 
@@ -68,96 +64,22 @@
 <tr>
 <td width="50%">
 
-**🔐 Fake Product Identification using Blockchain**
-- **Tech:** Solidity, Web3.js, React, Node.js, Ethereum
-- **Features:** Smart contracts for product authenticity verification
-- **Impact:** Combating counterfeit products using blockchain technology
-- **Highlights:** Decentralized verification, immutable records, QR integration
+**🔐 Fake Product Identification using Blockchain**  
+- **Tech:** Solidity, Web3.js, React, Node.js, Ethereum  
+- **Features:** Smart contracts for product authenticity verification  
+- **Impact:** Combating counterfeit products using blockchain technology  
+- **Highlights:** Decentralized verification, immutable records, QR integration  
 - [🔗 View Project](https://github.com/rishi2100/fake-product-identification-using-blockchain.git)
 
 </td>
 <td width="50%">
 
-**🔍 Fashion Recommendation Chatbot**
-- **Tech:** Python, CNN, BERT, Flask
-- **Features:** Multimodal AI for fashion recommendations
-- **Impact:** Personalized shopping experience using deep learning
-- **Highlights:** Image processing, NLP, recommendation engine
-- [🔗 View Project](https://github.com/rishi2100/fashion-outfit-recommendation-chatbot.git)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🎵 Rhythm Rafi - Music Streaming Platform**
-- **Tech:** HTML, CSS, JavaScript
-- **Features:** Music streaming, playlist creation, social features
-- **Impact:** Completed full-stack music application with real-time features
-- **Highlights:** Audio streaming, responsive UI
-- [🔗 View Project](https://github.com/rishi2100/Rythm-Rafi.git)
-
-</td>
-<td width="50%">
-
-**🌤️ Weather Prediction & Forecasting**
-- **Tech:** Python, Machine Learning, Scikit-learn, Pandas, Flask
-- **Algorithm used:** Random Forest Regression
-- **Features:** Weather prediction using ML algorithms
-- **Impact:** Accurate weather forecasting with data visualization
-- **Highlights:** Time series analysis, predictive modeling, APIs
-- [🔗 View Project](https://github.com/rishi2100/weather-prediction-forecasting.git)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🌟 All Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🔐 Fake Product Identification using Blockchain**
-- **Tech:** Solidity, Web3.js, React, Node.js, Ethereum
-- **Features:** Smart contracts for product authenticity verification
-- **Impact:** Combating counterfeit products using blockchain technology
-- **Highlights:** Decentralized verification, immutable records, QR integration
-- [🔗 View Project](https://github.com/rishi2100/fake-product-identification-using-blockchain.git)
-
-</td>
-<td width="50%">
-
-**🔍 Fashion Recommendation Chatbot**
-- **Tech:** Python, CNN, BERT, Flask
-- **Features:** Multimodal AI for fashion recommendations
-- **Impact:** Personalized shopping experience using deep learning
-- **Highlights:** Image processing, NLP, recommendation engine
-- [🔗 View Project](https://github.com/rishi2100/fashion-outfit-recommendation-chatbot.git)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🎵 Rhythm Rafi - Music Streaming Platform**
-- **Tech:** HTML, CSS, Javascript
-- **Features:** Music streaming, playlist creation, social features
-- **Impact:** Completed full-stack music application with real-time features
-- **Highlights:** Audio streaming, responsive UI
-- [🔗 View Project](https://github.com/rishi2100/Rythm-Rafi.git)
-
-</td>
-<td width="50%">
-
-**🌤️ Weather Prediction & Forecasting**
-- **Tech:** Python, Machine Learning, Scikit-learn, Pandas, Flask
-- **Algorithm used:** Random Forest Regression 
-- **Features:** Weather prediction using ML algorithms
-- **Impact:** Accurate weather forecasting with data visualization
-- **Highlights:** Time series analysis, predictive modeling, APIs
+**🌤️ Weather Prediction & Forecasting**  
+- **Tech:** Python, Machine Learning, Scikit-learn, Pandas, Flask  
+- **Algorithm used:** Random Forest Regression  
+- **Features:** Weather prediction using ML algorithms  
+- **Impact:** Accurate weather forecasting with data visualization  
+- **Highlights:** Time series analysis, predictive modeling, APIs  
 - [🔗 View Project](https://github.com/rishi2100/weather-prediction-forecasting.git)
 
 </td>
@@ -165,22 +87,22 @@
 <tr>
 <td width="50%">
 
-**📦 Portfolio Website**
-- **Tech:** HTML, CSS, JavaScript
-- **Features:** Responsive design, interactive animations
-- **Impact:** Professional showcase of skills and projects
-- **Highlights:** Modern UI/UX, performance optimization
+**🎵 Rhythm Rafi - Music Streaming Platform**  
+- **Tech:** HTML, CSS, JavaScript  
+- **Features:** Music streaming, playlist creation, social features  
+- **Impact:** Completed full-stack music application with real-time features  
+- **Highlights:** Audio streaming, responsive UI  
+- [🔗 View Project](https://github.com/rishi2100/Rythm-Rafi.git)
+
+</td>
+<td width="50%">
+
+**📦 Portfolio Website**  
+- **Tech:** HTML, CSS, JavaScript  
+- **Features:** Responsive design, interactive animations  
+- **Impact:** Professional showcase of skills and projects  
+- **Highlights:** Modern UI/UX, performance optimization  
 - [🔗 View Project](https://github.com/rishi2100/My-portfolio.git)
-
-</td>
-<td width="50%">
-
-**🚀 More Projects Coming Soon...**
-- **Tech:** Various technologies
-- **Features:** Innovative solutions and experiments
-- **Impact:** Continuous learning and development
-- **Highlights:** Open source contributions, new tech exploration
-- [🔗 View All Repos](https://github.com/rishi2100?tab=repositories)
 
 </td>
 </tr>
@@ -199,7 +121,7 @@
 ## 🎵 Coding Rhythm & Musical Projects
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=rishi2100" alt="" />
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=rishi2100" alt="Spotify Playing" />
 </div>
 
 <div align="center">
