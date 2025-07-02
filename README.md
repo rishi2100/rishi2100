@@ -12,18 +12,19 @@
   <img src="https://lottie.host/0a6ac75e-59ec-4095-975b-4b1b264a2f64/8f09NspTeo.gif" width="50%" alt="Developer Animation" />
 </div>
 
-<p align="center">
-  <em>Welcome to my GitHub! I'm a passionate developer, constantly learning and building cool stuff. Whether it's web development, machine learning, blockchain, or open-source contributions — I love turning ideas into reality through code.</em>
-</p>
+<p align="center"><em>
+Welcome to my GitHub! I'm a passionate developer, constantly learning and building cool stuff. Whether it's web development, machine learning, blockchain, or open-source contributions — I love turning ideas into reality through code.
+</em></p>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning: AI/ML, Backend Development, Blockchain Technology, DevOps
-- 🔧 Tech Stack: Python, JavaScript, Django, React, Node.js, MongoDB, PostgreSQL, SQL, Solidity, Web3, Docker
-- 🛠️ Exploring: CI/CD pipelines, containerization, and excited to grow in the DevOps space
-- 💼 Passionate about building scalable, production-grade applications and actively contributing to open-source projects
-- 🎯 2025 Goals: Contribute to major open-source repositories, build more ML-powered apps, and deepen hands-on DevOps experience
+
+- 🌱 Currently learning: AI/ML, Backend Development, Blockchain Technology, DevOps  
+- 🔧 Tech Stack: Python, JavaScript, Django, React, Node.js, MongoDB, PostgreSQL, SQL, Solidity, Web3, Docker  
+- 🛠️ Exploring: CI/CD pipelines, containerization, and excited to grow in the DevOps space  
+- 💼 Passionate about building scalable, production-grade applications and contributing to open-source projects  
+- 🎯 2025 Goals: Contribute to major open-source repositories, build more ML-powered apps, and deepen DevOps skills  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/rishi-sharma-62503b16b/) | [Email](mailto:connect.rishi96@gmail.com)
 
 ---
@@ -56,7 +57,6 @@
 ## ⭐ Featured Projects
 
 <div align="center">
-  <h3>🏆 Showcasing My Work</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Innovative+Solutions;Full+Stack+Applications;AI%2FML+Projects;Blockchain+Solutions" alt="Featured Projects" />
 </div>
 
@@ -64,34 +64,30 @@
 <tr>
 <td width="50%">
 
-**🔐 Fake Product Identification using Blockchain**  
+### 🔐 Fake Product Identification using Blockchain  
 - **Tech:** Solidity, Web3.js, React, Node.js, Ethereum  
 - **Features:** Smart contracts for product authenticity verification  
-- **Impact:** Combating counterfeit products using blockchain technology  
-- **Highlights:** Decentralized verification, immutable records, QR integration  
+- **Impact:** Combats counterfeit products using blockchain  
 - [🔗 View Project](https://github.com/rishi2100/fake-product-identification-using-blockchain.git)
 
 </td>
 <td width="50%">
 
-**🌤️ Weather Prediction & Forecasting**  
-- **Tech:** Python, Machine Learning, Scikit-learn, Pandas, Flask  
-- **Algorithm used:** Random Forest Regression  
-- **Features:** Weather prediction using ML algorithms  
-- **Impact:** Accurate weather forecasting with data visualization  
-- **Highlights:** Time series analysis, predictive modeling, APIs  
+### 🌤️ Weather Prediction & Forecasting  
+- **Tech:** Python, Machine Learning, Flask  
+- **Algorithm:** Random Forest Regression  
+- **Impact:** Forecasts weather using ML & time series  
 - [🔗 View Project](https://github.com/rishi2100/weather-prediction-forecasting.git)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td colspan="2" align="center">
 
-**🎵 Rhythm Rafi - Music Streaming Platform**  
+### 🎵 Rhythm Rafi - Music Streaming Platform  
 - **Tech:** HTML, CSS, JavaScript  
-- **Features:** Music streaming, playlist creation, social features  
-- **Impact:** Completed full-stack music application with real-time features  
-- **Highlights:** Audio streaming, responsive UI  
+- **Features:** Streaming, playlist creation  
+- **Impact:** Responsive full-stack music app  
 - [🔗 View Project](https://github.com/rishi2100/Rythm-Rafi.git)
 
 </td>
@@ -114,7 +110,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🎵+Built+and+deployed+Rhythm+Rafi;🎧+Music+%2B+Code+%3D+Perfect+Harmony;🎶+From+concept+to+production!" alt="Music Typing" />
 </div>
 
-*"Good code is like a good song – it needs rhythm, harmony, and perfect timing!"* 🎶
+<p align="center"><em>
+"Good code is like a good song – it needs rhythm, harmony, and perfect timing!" 🎶
+</em></p>
 
 ---
 
@@ -140,7 +138,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <img src="https://komarev.com/ghpvc/?username=rishi2100&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/rishi2100?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
 </div>
