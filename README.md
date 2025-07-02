@@ -199,7 +199,7 @@
 ## 🎵 Coding Rhythm & Musical Projects
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=rishi2100" alt="Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=rishi2100" alt="" />
 </div>
 
 <div align="center">
