@@ -121,10 +121,6 @@
 ## 🎵 Coding Rhythm & Musical Projects
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=rishi2100" alt="Spotify Playing" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🎵+Built+and+deployed+Rhythm+Rafi;🎧+Music+%2B+Code+%3D+Perfect+Harmony;🎶+From+concept+to+production!" alt="Music Typing" />
 </div>
 
