@@ -75,7 +75,7 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 
 ### 🌤️ Weather Prediction & Forecasting  
 - **Tech:** Python, Machine Learning, Flask  
-- **Algorithm:** Random Forest Regression  
+- **Algorithm used:** Random Forest Regression  
 - **Impact:** Forecasts weather using ML & time series  
 - [🔗 View Project](https://github.com/rishi2100/weather-prediction-forecasting.git)
 
