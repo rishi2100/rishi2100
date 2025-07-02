@@ -56,13 +56,13 @@
 ## ⭐ Featured Projects
 
 <div align="center">
-  <h3>🏆 Showcasing My Best Work</h3>
+  <h3>🏆 Showcasing My Work</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Innovative+Solutions;Full+Stack+Applications;AI%2FML+Projects;Blockchain+Solutions" alt="Featured Projects" />
 </div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="40%">
 
 **🔐 Fake Product Identification using Blockchain**  
 - **Tech:** Solidity, Web3.js, React, Node.js, Ethereum  
