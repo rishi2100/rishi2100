@@ -62,7 +62,7 @@
 
 <table>
 <tr>
-<td width="40%">
+<td width="50%">
 
 **🔐 Fake Product Identification using Blockchain**  
 - **Tech:** Solidity, Web3.js, React, Node.js, Ethereum  
@@ -93,16 +93,6 @@
 - **Impact:** Completed full-stack music application with real-time features  
 - **Highlights:** Audio streaming, responsive UI  
 - [🔗 View Project](https://github.com/rishi2100/Rythm-Rafi.git)
-
-</td>
-<td width="50%">
-
-**📦 Portfolio Website**  
-- **Tech:** HTML, CSS, JavaScript  
-- **Features:** Responsive design, interactive animations  
-- **Impact:** Professional showcase of skills and projects  
-- **Highlights:** Modern UI/UX, performance optimization  
-- [🔗 View Project](https://github.com/rishi2100/My-portfolio.git)
 
 </td>
 </tr>
