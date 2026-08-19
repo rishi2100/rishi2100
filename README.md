@@ -32,10 +32,7 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,mongodb,postgresql,mysql,aws,solidity,git,github,vscode,bash,linux&perline=7" />
-</div>
-<div align="center" style="margin-top: 15px;">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mongodb,postgresql,mysql,aws,solidity,git,github,vscode,bash,linux,gitbash&perline=7" />
 </div>
 
 ---
