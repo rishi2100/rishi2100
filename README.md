@@ -21,9 +21,9 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 ## 🚀 About Me
 
 - 🌱 **Currently learning:** Big Data Analytics (Hadoop, Apache Spark), Cloud Computing Architecture (AWS), and Advanced AI/ML  
-- 🔧 **Tech Stack:** Python, SQL, C++, Hadoop, Apache Spark, AWS, MongoDB, PostgreSQL, Solidity, Web3  
+- 🔧 **Tech Stack:** Python, SQL, C++, Hadoop, Apache Spark, AWS, Power BI, MongoDB, PostgreSQL, Solidity, Web3  
 - 🛠️ **Exploring:** Big data methodologies, distributed computing, and building scalable cloud infrastructure  
-- 💼 **Passionate about:** Processing massive datasets, building intelligent ML models, and contributing to open-source projects  
+- 💼 **Passionate about:** Processing massive datasets, visualizing insights, building intelligent ML models, and contributing to open-source projects  
 - 🎯 **2026 Goals:** Master Big Data pipelines, build more scalable cloud-native apps, and deepen my expertise in AWS  
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/rishi-sharma-62503b16b/) | [Email](mailto:connect.rishi96@gmail.com)
 
@@ -32,25 +32,10 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <!-- Removed web dev/DevOps icons; focused on Python, C/C++, Databases, AWS, Git, Solidity, Bash -->
   <img src="https://skillicons.dev/icons?i=python,cpp,c,mongodb,postgresql,mysql,aws,solidity,git,github,vscode,bash,linux&perline=7" />
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishi2100&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi2100&layout=compact&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rishi2100&theme=radical&hide_border=true&border_radius=4.5" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi2100&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI"/>
 </div>
 
 ---
