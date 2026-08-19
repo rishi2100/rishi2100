@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,mongodb,postgresql,mysql,aws,solidity,git,github,vscode,bash,linux,gitbash&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mongodb,postgresql,mysql,aws,solidity,git,github,vscode,bash,linux&perline=7" />
 </div>
 
 ---
