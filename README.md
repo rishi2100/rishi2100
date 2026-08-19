@@ -102,14 +102,6 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 
 ---
 
-## 🏅 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishi2100&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🔗 Let's Connect & Collaborate
 
 <div align="center">
