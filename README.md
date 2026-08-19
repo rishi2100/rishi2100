@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rishi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Blockchain+Developer;DevOps+Explorer;Eager+to+Contribute+Open+Source;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Big+Data+%26+Cloud+Enthusiast;AI%2FML+Explorer;Blockchain+Developer;Eager+to+Contribute+Open+Source;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,26 +13,27 @@
 </div>
 
 <p align="center"><em>
-Welcome to my GitHub! I'm a passionate developer, constantly learning and building cool stuff. Whether it's web development, machine learning, blockchain, or open-source contributions — I love turning ideas into reality through code.
+Welcome to my GitHub! I'm a passionate developer, constantly learning and building cool stuff. Whether it's Big Data Analytics, Machine Learning, Cloud Computing, or Blockchain — I love turning complex data and ideas into scalable reality through code.
 </em></p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning: AI/ML, Backend Development, Blockchain Technology, DevOps  
-- 🔧 Tech Stack: Python, JavaScript, Django, React, Node.js, MongoDB, PostgreSQL, SQL, Solidity, Web3, Docker  
-- 🛠️ Exploring: CI/CD pipelines, containerization, and excited to grow in the DevOps space  
-- 💼 Passionate about building scalable, production-grade applications and contributing to open-source projects  
-- 🎯 2025 Goals: Contribute to major open-source repositories, build more ML-powered apps, and deepen DevOps skills  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/rishi-sharma-62503b16b/) | [Email](mailto:connect.rishi96@gmail.com)
+- 🌱 **Currently learning:** Big Data Analytics (Hadoop, Apache Spark), Cloud Computing Architecture (AWS), and Advanced AI/ML  
+- 🔧 **Tech Stack:** Python, SQL, C++, Hadoop, Apache Spark, AWS, MongoDB, PostgreSQL, Solidity, Web3  
+- 🛠️ **Exploring:** Big data methodologies, distributed computing, and building scalable cloud infrastructure  
+- 💼 **Passionate about:** Processing massive datasets, building intelligent ML models, and contributing to open-source projects  
+- 🎯 **2026 Goals:** Master Big Data pipelines, build more scalable cloud-native apps, and deepen my expertise in AWS  
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/rishi-sharma-62503b16b/) | [Email](mailto:connect.rishi96@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,django,mongodb,postgresql,html,css,git,github,vscode,docker,solidity,aws,mysql,bash,githubactions,kubernetes&perline=7" />
+  <!-- Removed web dev/DevOps icons; focused on Python, C/C++, Databases, AWS, Git, Solidity, Bash -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mongodb,postgresql,mysql,aws,solidity,git,github,vscode,bash,linux&perline=7" />
 </div>
 
 ---
@@ -57,7 +58,7 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 ## ⭐ Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Innovative+Solutions;Full+Stack+Applications;AI%2FML+Projects;Blockchain+Solutions" alt="Featured Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Innovative+Solutions;Big+Data+Applications;AI%2FML+Projects;Blockchain+Solutions" alt="Featured Projects" />
 </div>
 
 <table>
@@ -65,9 +66,9 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 <td width="50%">
 
 ### 🔐 Fake Product Identification using Blockchain  
-- **Tech:** Solidity, Web3.js, React, Node.js, Ethereum  
+- **Tech:** Solidity, Web3.js, Node.js, Ethereum  
 - **Features:** Smart contracts for product authenticity verification  
-- **Impact:** Combats counterfeit products using blockchain  
+- **Impact:** Combats counterfeit products using secure decentralized ledgers  
 - [🔗 View Project](https://github.com/rishi2100/fake-product-identification-using-blockchain.git)
 
 </td>
@@ -76,7 +77,7 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 ### 🌤️ Weather Prediction & Forecasting  
 - **Tech:** Python, Machine Learning, Flask  
 - **Algorithm used:** Random Forest Regression  
-- **Impact:** Forecasts weather using ML & time series  
+- **Impact:** Forecasts weather using ML & time series analysis  
 - [🔗 View Project](https://github.com/rishi2100/weather-prediction-forecasting.git)
 
 </td>
@@ -87,7 +88,7 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 ### 🎵 Rhythm Rafi - Music Streaming Platform  
 - **Tech:** HTML, CSS, JavaScript  
 - **Features:** Streaming, playlist creation  
-- **Impact:** Responsive full-stack music app  
+- **Impact:** Responsive full-stack music app *(Legacy Project)*  
 - [🔗 View Project](https://github.com/rishi2100/Rythm-Rafi.git)
 
 </td>
@@ -159,5 +160,5 @@ Welcome to my GitHub! I'm a passionate developer, constantly learning and buildi
 ---
 
 <div align="center">
-  Made with ❤️ by Rishi | Last updated: 2025
+  Made with ❤️ by Rishi | Last updated: 2026
 </div>
